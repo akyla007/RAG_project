@@ -1,5 +1,7 @@
 # Projeto RAG – Retrieval Augmented Generation
 
+Link para o script: https://colab.research.google.com/drive/1ZJ6NZD7DjPZIntnB-Ma7VzaCqCvy67E2?usp=sharing
+
 Bem-vindo ao **Projeto RAG**! Este repositório apresenta uma abordagem inovadora que une a busca por informações com a geração de respostas em linguagem natural. Fique à vontade para explorar como técnicas modernas podem tornar a interação com dados mais inteligente e precisa.
 
 ## O que é RAG?
